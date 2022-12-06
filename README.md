@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Nazan. I'm computer engineering student at Beykent University.
+- 📫 How to reach me:
+ <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nazan-korkmaz-0aa24b225/"><img width="32" height="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"></a>
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=nazankorkmaz&show_icons=true&theme=gradient)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazankorkmaz&layout=compact&theme=tokyonight" height="180" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazankorkmaz&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
+  </p
+
