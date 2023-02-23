@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Nazan. I'm computer engineering student at Beykent University.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65BD27E1&width=436&height=53&lines=I+am+Nazan.;I'm+computer+engineering+student+" alt="Typing SVG" /></a>
 - 📫 How to reach me:
  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nazan-korkmaz-0aa24b225/"><img width="32" height="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"></a>
 
