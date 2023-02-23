@@ -1,6 +1,6 @@
-### Hi there 👋
+###         <pre>                                   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-welcome-rage-room-flaticons-lineal-color-flat-icons.png"  width="100" height="100"/>   Hi there    <img src="https://img.icons8.com/external-bearicons-blue-bearicons/64/null/external-Welcome-miscellany-texts-and-badges-bearicons-blue-bearicons.png"  width="100" height="100"/>    </pre>
 
-<!--
+<!--👋
 **nazankorkmaz/nazankorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65BD27E1&width=436&height=53&lines=I+am+Nazan.;I'm+computer+engineering+student+" alt="Typing SVG" /></a>
 
-<b style="font-size:50px;" >-Tech I Use</b>
 
-<a href="https://www.python.org/" rel="nofollow"> <img src="https://img.icons8.com/clouds/100/null/python.png" alt="python" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/amazon-database.svg" style="max-width: 100%;" align = "left"> </a>
+- <b style="font-size:50px;">Tech I Use:</b>
 
-
-
-<br><br>
-
-
-- 📫 How to reach me:
+<a href="https://www.python.org/" rel="nofollow"> <img src="https://img.icons8.com/clouds/100/null/python.png" alt="python" width="100" height="100" align = "left"> </a>
+<a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://img.icons8.com/wired/64/null/c-programming.png" alt="c" width="100" height="100" align = "left"> </a>
+<a href="https://www.java.com/tr/" rel="nofollow"> <img src="https://img.icons8.com/wired/64/null/java-coffee-cup-logo.png" alt="java" width="100" height="100" align = "left"> </a>
+<a href="https://html5.org/" rel="nofollow"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="html" width="100" height="100" align = "left"> </a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow"> <img src="https://img.icons8.com/dusk/64/null/css3.png" alt="css" width="100" height="100" align = "left"> </a>
+<br></br>
+<br></br>
+- 📫 How to reach me:<br></br>
  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nazan-korkmaz-0aa24b225/"><img width="40" height="40" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"></a>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=nazankorkmaz&show_icons=true&theme=gradient)
