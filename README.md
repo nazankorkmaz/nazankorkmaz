@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazankorkmaz&layout=compact&theme=tokyonight" height="180" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazankorkmaz&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
   </p
 
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clehhjy7g00110fmk6vo7d8yh/stats?cursusId=21&coalitionId=227" alt="nkorkmaz's 42 stats" /></a>
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clehhjy7g00110fmk6vo7d8yh/stats?cursusId=9&coalitionId=piscine" alt="nkorkmaz's 42 stats" /></a>
