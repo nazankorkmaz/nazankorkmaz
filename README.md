@@ -1,8 +1,3 @@
-
-
-
-###      
-
 <!--👋
    <pre>     <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-welcome-rage-room-flaticons-lineal-color-flat-icons.png"  width="100" height="100"/>     </pre>
 **nazankorkmaz/nazankorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc1OGEyODMxZTkwOTVhOGU4Yzg2NTUwMjViNzc1OTc1OGRkNDc5ZiZjdD1n/tL5a6inKRfzoNFgRFK/giphy.gif" width="250"/>
-<br></br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65BD27E1&width=436&height=53&lines=I+am+Nazan.;I'm+computer+engineering+student+" alt="Typing SVG" /></a>
 
 
@@ -32,8 +26,15 @@ Here are some ideas to get you started:
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow"> <img src="https://img.icons8.com/dusk/64/null/css3.png" alt="css" width="100" height="100" align = "left"> </a>
 <br></br>
 <br></br>
+
+
 - 📫 How to reach me:<br></br>
  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nazan-korkmaz-0aa24b225/"><img width="40" height="40" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"></a>
+
+<br></br>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc1OGEyODMxZTkwOTVhOGU4Yzg2NTUwMjViNzc1OTc1OGRkNDc5ZiZjdD1n/tL5a6inKRfzoNFgRFK/giphy.gif" width="250"/>
+<br></br>
+<br></br>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=nazankorkmaz&show_icons=true&theme=gradient)
 
