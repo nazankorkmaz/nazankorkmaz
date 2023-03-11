@@ -1,6 +1,11 @@
-###         <pre>                                   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-welcome-rage-room-flaticons-lineal-color-flat-icons.png"  width="100" height="100"/>   Hi there    <img src="https://img.icons8.com/external-bearicons-blue-bearicons/64/null/external-Welcome-miscellany-texts-and-badges-bearicons-blue-bearicons.png"  width="100" height="100"/>    </pre>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc1OGEyODMxZTkwOTVhOGU4Yzg2NTUwMjViNzc1OTc1OGRkNDc5ZiZjdD1n/tL5a6inKRfzoNFgRFK/giphy.gif" width="250"/>
+
+
+
+###      
 
 <!--👋
+   <pre>     <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-welcome-rage-room-flaticons-lineal-color-flat-icons.png"  width="100" height="100"/>     </pre>
 **nazankorkmaz/nazankorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
