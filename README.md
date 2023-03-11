@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc1OGEyODMxZTkwOTVhOGU4Yzg2NTUwMjViNzc1OTc1OGRkNDc5ZiZjdD1n/tL5a6inKRfzoNFgRFK/giphy.gif" width="250"/>
-<b>
+<br></br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65BD27E1&width=436&height=53&lines=I+am+Nazan.;I'm+computer+engineering+student+" alt="Typing SVG" /></a>
 
 
