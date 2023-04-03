@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <br></br>
 
 
-- 📫 How to reach me:<br></br>
- <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nazan-korkmaz-0aa24b225/"><img width="40" height="40" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"></a>
+<b>>- 📫 How to reach me:</b><br></br>
+ <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nazan-korkmaz-0aa24b225/"><img width="60" height="50" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"></a>
 
 
 
