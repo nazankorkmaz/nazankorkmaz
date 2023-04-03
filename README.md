@@ -31,10 +31,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me:<br></br>
  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nazan-korkmaz-0aa24b225/"><img width="40" height="40" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"></a>
 
+
+
 <br></br>
 <img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc1OGEyODMxZTkwOTVhOGU4Yzg2NTUwMjViNzc1OTc1OGRkNDc5ZiZjdD1n/tL5a6inKRfzoNFgRFK/giphy.gif" width="250"/>
 <br></br>
-<br></br>
+<br>
+![Profile views](https://gpvc.arturio.dev/nazankorkmaz)
+<br />
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=nazankorkmaz&show_icons=true&theme=gradient)
 
