@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 <b>>- 📫 How to reach me:</b><br></br>
  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nazan-korkmaz-0aa24b225/"><img width="60" height="50" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"></a>
-
+ 
+ <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazankorkmaz&label=Profile%20views&color=ff0001&style=flat" alt="nazankorkmaz" /> </p> 
 
 <!--
 <br></br>
@@ -40,12 +42,10 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/nazankorkmaz)
 <br />
 -->
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=nazankorkmaz&show_icons=true&theme=gradient)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazankorkmaz&layout=compact&theme=tokyonight" height="180" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazankorkmaz&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;"></a>
   </p
 
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clehhjy7g00110fmk6vo7d8yh/stats?cursusId=21&coalitionId=227" alt="nkorkmaz's 42 stats" /></a>
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clehhjy7g00110fmk6vo7d8yh/stats?cursusId=9&coalitionId=piscine" alt="nkorkmaz's 42 stats" /></a>
